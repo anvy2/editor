@@ -1,0 +1,1 @@
+{"ast":null,"code":"export {};","map":{"version":3,"sources":["/Users/anvy/Desktop/chatteron/temp/new/src/modules.ts"],"names":[],"mappings":"AAEA","sourcesContent":["declare module \"*.module.css\";\n\nexport {}\n"]},"metadata":{},"sourceType":"module"}
